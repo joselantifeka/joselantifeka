@@ -41,12 +41,6 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 
 <br/>
 
-<details>
-  <summary><code>$ echo $stats</code></summary>
-  <br/>
-  <a href="https://github.com/serpro69"><img alt="Github Stats" src="https://github-profile-trophy.vercel.app/?username=serpro69&theme=nord&no-bg=true"/></a>
-</details>
-
 ---
 
 <picture>
