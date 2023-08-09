@@ -55,7 +55,7 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 <!--START_SECTION:endorsements-->
   ### Skills & Endorsements
   
-  I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
+
 
   <ul>
     <li><a href="https://www.coderhouse.com/certificados/625f67259e86680019dae16b?lang=en">Web Developer</a></li>
