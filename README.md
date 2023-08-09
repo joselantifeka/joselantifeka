@@ -13,7 +13,7 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 <br/>
 
 <details> 
-  <summary><code>$ for i in $📌; do; echo "$i"; done</code></summary>
+  <summary><code>$ for (let i = 0; i < do.length; i++)</code></summary>
   <br/>
   <ul>
   <li>🦸‍♂️ I currently work at <a href="https://incubator.com.ar/">@Incubator</a>, where I create all sorts of dynamic interfaces with ReactJs, React Native, and NextJS 🤖 (Coffee Driven Development 🍵🔨), with my main focus areas being Front End development with JS 💯</li>
