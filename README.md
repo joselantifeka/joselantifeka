@@ -58,14 +58,17 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
   I would like to add you to my professional network on GitHub. See more on [how to endorse a skill](https://github.com/serpro69/serpro69/issues/3).
 
   <ul>
-  <li><a href="https://github.com/serpro69/serpro69/issues/9">Awesome github profile</a>: <img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/8">TeamCity</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/7">Java</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/6">Selenium</a>: <img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/5">Kotlin</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/4">Software Testing :test_tube: </a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76916525?u=71c8d2f77c1a9fa147eb4363601e777c97a6240a&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/serpro69/serpro69/issues/2">Ansible</a>: <img src=https://avatars.githubusercontent.com/u/22973227?u=30ca205ca85c86d515c568b57def03c9b560e75b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/88715481?v=4&s=20 height=20 /></li>
-  <li><a href="https://github.com/serpro69/serpro69/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
+    <li><a href="https://www.coderhouse.com/certificados/625f67259e86680019dae16b?lang=en">Web Developer</a></li>
+    <li><a href="https://www.coderhouse.com/certificados/62a526833f9c3b0020068f86">JavaScript</a></li>
+  <li><a href="https://www.coderhouse.com/certificados/630c50189db1370025fc7cb3">React JS</a></li>
+       <li>TypeScript</li>
+    <li>React Native</li>
+ <li>Mobx State Tree</li>
+ <li>NodeJS</li>
+ <li>MYSQL</li>
+ <li>postgresql</li>
+<li>NextJs</li>
+    
   </ul>
   <!--END_SECTION:endorsements-->
 
