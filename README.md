@@ -9,6 +9,7 @@ Hello and thanks for checking out my profile page.
   <br/>
 My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 currently living in Argentina 🇦🇷. In my work, I feel a tremendous passion for software quality 🔍 and automation ⚙️, and I enjoy fixing challenging bugs 🐞. In my spare time, I love exploring a variety of interests, too numerous to list here.
   <br/>
+  <br/>
 
 ![GIF](https://media1.giphy.com/media/yJHN2CCfPIw4o/giphy.webp?cid=ecf05e47p8uk2s513p1i2ijq97r5lyk0zterz5r2fi1dl16m&ep=v1_gifs_search&rid=giphy.webp&ct=g)
   
