@@ -8,8 +8,13 @@ Hello and thanks for checking out my profile page.
   <summary><code>$ whoami</code></summary>
   <br/>
 My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 currently living in Argentina 🇦🇷. In my work, I feel a tremendous passion for software quality 🔍 and automation ⚙️, and I enjoy fixing challenging bugs 🐞. In my spare time, I love exploring a variety of interests, too numerous to list here.
+  <br/>
 
+<div align="center">
 ![GIF](https://media1.giphy.com/media/yJHN2CCfPIw4o/giphy.webp?cid=ecf05e47p8uk2s513p1i2ijq97r5lyk0zterz5r2fi1dl16m&ep=v1_gifs_search&rid=giphy.webp&ct=g)
+</div>
+  <br/>
+
 </details>
 
 <br/>
@@ -43,7 +48,6 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gajose200522@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegallego05/)
 </div>
-
 
 <br/>
 
@@ -83,9 +87,7 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
   ![Express.Js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
 ---
-
 
 <div align="center">
   <h3>Tools I'm using:</h3>
@@ -104,9 +106,7 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
 ---
-
 
 <!--START_SECTION:endorsements-->
 
@@ -127,10 +127,10 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
   </ul>
   <!--END_SECTION:endorsements-->
 
-
 ---
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C588%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -140,8 +140,6 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 <!--END_SECTION:waka-->
 
 ---
-
-
 
 <!--
 **joselantifeka/joselantifeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
