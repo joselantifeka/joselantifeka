@@ -51,12 +51,11 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 <!--generated with https://github.com/Platane/snk -->
 
 ---
- <div>
+ <details> 
   <a href="https://github.com/eagrundy">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselantifeka&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselantifeka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-
+</details>
 <br/>
 ---
 
