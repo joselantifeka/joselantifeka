@@ -35,7 +35,6 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 </ul>
 </details>
 
-&nbsp;
 <div align="center">
   <h3>You can contact me via:</h3>
   
@@ -43,7 +42,6 @@ My name is Jose Gallego, I'm a Full Stack developer from Colombia 🇨🇴 curre
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josegallego05/)
 </div>
 
-&nbsp;
 
 <br/>
 
