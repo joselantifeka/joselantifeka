@@ -2,7 +2,7 @@
 
 ---
 
-Hello and thanks for checking out my profile page.
+Hello and thanks for checking out my profile page. https://bento.me/josegallego
 
 <details> 
   <summary><code>$ whoami</code></summary>
